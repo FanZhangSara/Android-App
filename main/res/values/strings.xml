@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Application3</string>
+    <string name="fa_glass">&#xf001;</string>
+    <string name="fa_search">&#xf002;</string>
+    <string name="fa_heart">&#xf004;</string>
+</resources>
